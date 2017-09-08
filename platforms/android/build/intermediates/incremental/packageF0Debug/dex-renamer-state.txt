@@ -1,0 +1,4 @@
+#Thu Sep 07 23:55:28 BRT 2017
+base.0=/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-app/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-app/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main/classes.dex
