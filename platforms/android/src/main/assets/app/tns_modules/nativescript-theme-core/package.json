@@ -16,12 +16,13 @@
     "fetchSpec": "1.0.4"
   },
   "_requiredBy": [
-    "/tns-template-blank-ng"
+    "#USER",
+    "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-theme-core/-/nativescript-theme-core-1.0.4.tgz",
   "_shasum": "cf2880c7fbf2fe5f43e2235d309750790803efe1",
   "_spec": "nativescript-theme-core@1.0.4",
-  "_where": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-app/node_modules/tns-template-blank-ng",
+  "_where": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning",
   "author": {
     "name": "Telerik",
     "email": "support@telerik.com"

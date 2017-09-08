@@ -4,11 +4,23 @@
         "source": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-app/platforms/android/src/main/res/drawable-ldpi/background.png"
     },
     {
+        "merged": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/logo.png",
+        "source": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/background.png",
+        "source": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/res/drawable-ldpi/background.png"
+    },
+    {
         "merged": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-app/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/logo.png",
         "source": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-app/platforms/android/src/main/res/drawable-ldpi/logo.png"
     },
     {
         "merged": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-app/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/icon.png",
         "source": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/maike-app/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/icon.png",
+        "source": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/res/drawable-ldpi/icon.png"
     }
 ]
