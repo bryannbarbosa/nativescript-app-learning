@@ -1,0 +1,107 @@
+{
+  "_from": "nativescript-snackbar",
+  "_id": "nativescript-snackbar@1.3.0",
+  "_inBundle": false,
+  "_integrity": "sha1-wqfrwU8ViI+fUPD6Vo1gVf7KREI=",
+  "_location": "/nativescript-snackbar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-snackbar",
+    "name": "nativescript-snackbar",
+    "escapedName": "nativescript-snackbar",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-snackbar/-/nativescript-snackbar-1.3.0.tgz",
+  "_shasum": "c2a7ebc14f15888f9f50f0fa568d6055feca4442",
+  "_spec": "nativescript-snackbar",
+  "_where": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning",
+  "author": {
+    "name": "Brad Martin",
+    "email": "bradwaynemartin@gmail.com",
+    "url": "https://github.com/bradmartin"
+  },
+  "bugs": {
+    "url": "https://github.com/bradmartin/nativescript-snackbar/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Steve McNiven-Scott",
+      "email": "steve@sitefinitysteve.com",
+      "url": "https://github.com/sitefinitysteve"
+    },
+    {
+      "name": "Nathanael Anderson",
+      "url": "https://github.com/NathanaelA"
+    },
+    {
+      "name": "Marc Buils",
+      "email": "marc.buils@marcbuils.fr",
+      "url": "http://www.marcbuils.fr/"
+    },
+    {
+      "name": "Rob Laverty",
+      "email": "roblav96@gmail.com",
+      "url": "https://github.com/roblav96"
+    },
+    {
+      "name": "Davor Peic",
+      "url": "http://www.davorpeic.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "A NativeScript plugin providing the Material Design SnackBar.",
+  "devDependencies": {
+    "husky": "^0.13.4",
+    "lint-staged": "^3.6.1",
+    "prettier": "^1.4.4",
+    "tns-platform-declarations": ">=3.0.0",
+    "typescript": "^2.3.0"
+  },
+  "homepage": "https://github.com/bradmartin/nativescript-snackbar",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "TypeScript",
+    "snackbar",
+    "android",
+    "ios",
+    "material design",
+    "bradmartin",
+    "sitefintysteve",
+    "NathanaelA",
+    "MarcBuils"
+  ],
+  "license": "Apache-2.0",
+  "lint-staged": {
+    "*.ts": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "main": "snackbar",
+  "name": "nativescript-snackbar",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.5.0",
+      "android": "1.5.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradmartin/nativescript-snackbar.git"
+  },
+  "scripts": {
+    "precommit": "lint-staged"
+  },
+  "typings": "index.d.ts",
+  "version": "1.3.0"
+}

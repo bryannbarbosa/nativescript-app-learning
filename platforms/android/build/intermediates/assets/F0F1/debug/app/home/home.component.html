@@ -1,0 +1,25 @@
+<Page class="page">
+  <Page.actionBar>
+    <ActionBar class="action-bar" title="Acesse sua conta">
+    </ActionBar>
+  </Page.actionBar>
+</Page>
+<GridLayout>
+    <ScrollView>
+        <StackLayout margin="10" verticalAlignment="center">
+            <Image class="logo" src="~/images/logo.png"></Image>
+            <StackLayout class="form" padding="15">
+                <StackLayout class="input-field">
+                    <TextField class="input" hint="Endereço de e-mail" [(ngModel)]="email" keyboardType="email" autocorrect="false" autocapitalizationType="none"></TextField>
+                    <StackLayout class="hr-light"></StackLayout>
+                </StackLayout>
+                <StackLayout class="input-field">
+                    <TextField secure="true" hint="Senha" class="input" [(ngModel)]="password"></TextField>
+                    <StackLayout class="hr-light"></StackLayout>
+                </StackLayout>
+                <Button class="signin bg-primary" text="Entrar"></Button>
+                <Label [nsRouterLink]="['signup']" text="Ainda não possui conta? Crie uma agora!" class="text-center footnote"></Label>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</GridLayout>

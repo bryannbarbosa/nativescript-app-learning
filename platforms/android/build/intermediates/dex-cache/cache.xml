@@ -8,79 +8,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-24.2.1_ace8120612e8c36d779375a06128803461647e17.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-24.2.1_e2623a651956560cdcc56d8fca898734d4149472.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_6353712aaede07b81d7e56857ec2172b0f324eb1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-24.2.1_d4f8aa9452f4bdcc6deea3ec0cd57f5f68e24a5d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-24.2.1_d6b728357135149b4c4470b4f39608983a521e3e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-24.2.1_d57065052decfb6319876777413e9fffadd9d7d9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-24.2.1_75c191380ec570c22f46e1360d7012775b6dccb6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-24.2.1_b152686d6cbaa286fce85db849d37f5adaf762b7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/maikeapp/runtime/unspecified/jars/libs/binding-generator.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_7fb9cdf5a462978a65f1626d4e13bd0f11fa0e80.jar" />
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-24.2.1_ace8120612e8c36d779375a06128803461647e17.jar" />
     </item>
     <item
         is-multidex="false"
@@ -89,7 +17,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-24.2.1_cfc1cf53f6f1580159ad814fb2a467346d93faa2.jar" />
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-24.2.1_cfc1cf53f6f1580159ad814fb2a467346d93faa2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -98,7 +26,16 @@
         optimize="true"
         revision="24.0.3"
         sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_164d671c2d69f2f95f01d34a3dfdda16c6eb7c32.jar" />
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_164d671c2d69f2f95f01d34a3dfdda16c6eb7c32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-24.2.1_e2623a651956560cdcc56d8fca898734d4149472.jar" />
     </item>
     <item
         is-multidex="false"
@@ -107,7 +44,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_3fd74c1d8d4ca965767b512b423e2f87d0d28d93.jar" />
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_3fd74c1d8d4ca965767b512b423e2f87d0d28d93.jar" />
     </item>
     <item
         is-multidex="false"
@@ -116,7 +53,16 @@
         optimize="true"
         revision="24.0.3"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-24.2.1_3d8add249fd95a1611a596ecab17595e78fda75c.jar" />
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-24.2.1_3d8add249fd95a1611a596ecab17595e78fda75c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_6353712aaede07b81d7e56857ec2172b0f324eb1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,7 +71,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_97a0d4565e5d5aec9c3dc733c4fa63f4ac9d49f6.jar" />
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_97a0d4565e5d5aec9c3dc733c4fa63f4ac9d49f6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -134,7 +80,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-24.2.1_4828109b5d1cb074ee317ce9abb3ef813a24a62e.jar" />
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-24.2.1_4828109b5d1cb074ee317ce9abb3ef813a24a62e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -143,7 +89,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_1bde17611a00bf97345dfae680f7bc60edcb2af9.jar" />
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_1bde17611a00bf97345dfae680f7bc60edcb2af9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -152,7 +98,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_d2ca8148560586e41e990aa2a7606af050b7c283.jar" />
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_d2ca8148560586e41e990aa2a7606af050b7c283.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,7 +107,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-24.2.1_bc102048a27ff00c8e10fc3a76afaa77fbe3d1bd.jar" />
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-24.2.1_bc102048a27ff00c8e10fc3a76afaa77fbe3d1bd.jar" />
     </item>
     <item
         is-multidex="false"
@@ -170,7 +116,25 @@
         optimize="true"
         revision="24.0.3"
         sha1="eb6078500d1af5e7b663871706674405c57292a3">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/maikeapp-runtime-unspecified_c0df1e02a663714ad652f10ab8162faef74ca23c.jar" />
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/maikeapp-runtime-unspecified_c0df1e02a663714ad652f10ab8162faef74ca23c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-24.2.1_d4f8aa9452f4bdcc6deea3ec0cd57f5f68e24a5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-24.2.1_d6b728357135149b4c4470b4f39608983a521e3e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -179,7 +143,43 @@
         optimize="true"
         revision="24.0.3"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-24.2.1_6fd860e1fa4e7d41c71712bad50a6f373468cd37.jar" />
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-24.2.1_6fd860e1fa4e7d41c71712bad50a6f373468cd37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-24.2.1_d57065052decfb6319876777413e9fffadd9d7d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-24.2.1_75c191380ec570c22f46e1360d7012775b6dccb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-24.2.1_b152686d6cbaa286fce85db849d37f5adaf762b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/exploded-aar/maikeapp/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_7fb9cdf5a462978a65f1626d4e13bd0f11fa0e80.jar" />
     </item>
 
 </items>

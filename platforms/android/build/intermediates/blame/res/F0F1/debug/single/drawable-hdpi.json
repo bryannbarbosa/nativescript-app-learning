@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi/logo.png",
+        "source": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi/background.png",
+        "source": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi/icon.png",
+        "source": "/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/res/drawable-hdpi/icon.png"
+    }
+]

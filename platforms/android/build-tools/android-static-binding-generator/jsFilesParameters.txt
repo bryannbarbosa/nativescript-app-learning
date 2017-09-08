@@ -65,6 +65,7 @@
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/assets/app/tns_modules/nativescript-intl/index.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/assets/app/tns_modules/nativescript-intl/nativescript-intl.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/assets/app/tns_modules/nativescript-intl/nativescript-intl-common.js
+/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/assets/app/tns_modules/nativescript-snackbar/snackbar.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/bundle-entry-points.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/ui/date-picker/date-picker-common.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/ui/date-picker/date-picker.js
@@ -219,3 +220,4 @@
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/assets/app/home/home.module.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/assets/app/home/home-routing.module.js
 /home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/assets/app/home/home.component.js
+/home/bryann/Área de Trabalho/works/maikehelp/nativescript/nativescript-app-learning/platforms/android/src/main/assets/app/home/signup/signup.component.js

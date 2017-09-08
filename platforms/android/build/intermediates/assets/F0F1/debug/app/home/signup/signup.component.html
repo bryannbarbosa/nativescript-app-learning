@@ -1,0 +1,33 @@
+<Page class="page">
+  <Page.actionBar>
+    <ActionBar class="action-bar" title="Crie sua conta">
+    </ActionBar>
+  </Page.actionBar>
+</Page>
+<GridLayout>
+    <ScrollView>
+        <StackLayout margin="10" verticalAlignment="center">
+            <Image class="logo" src="~/images/logo.png"></Image>
+            <StackLayout class="form" padding="15">
+                <StackLayout class="input-field">
+                    <TextField class="input" hint="Nome Completo"></TextField>
+                    <StackLayout class="hr-light"></StackLayout>
+                </StackLayout>
+                <StackLayout class="input-field">
+                    <TextField class="input" hint="Endereço de e-mail" [(ngModel)]="email" keyboardType="email" autocorrect="false" autocapitalizationType="none"></TextField>
+                    <StackLayout class="hr-light"></StackLayout>
+                </StackLayout>
+                <StackLayout class="input-field">
+                    <TextField class="input" hint="Número de matrícula" [(ngModel)]="matriculation" keyboardType="number" autocorrect="false" autocapitalizationType="none"></TextField>
+                    <StackLayout class="hr-light"></StackLayout>
+                </StackLayout>
+                <StackLayout class="input-field">
+                    <TextField secure="true" hint="Senha" class="input" [(ngModel)]="password"></TextField>
+                    <StackLayout class="hr-light"></StackLayout>
+                </StackLayout>
+                <Button class="signin bg-primary" text="Criar minha conta"></Button>
+                <Label [nsRouterLink]="['']" text="Já possui uma conta? Acesse sua conta." class="text-center footnote"></Label>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</GridLayout>
