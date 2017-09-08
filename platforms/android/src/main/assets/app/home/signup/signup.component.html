@@ -18,10 +18,14 @@
                     <StackLayout class="hr-light"></StackLayout>
                 </StackLayout>
                 <StackLayout class="input-field">
+                    <TextField class="input" hint="Número de matrícula" [(ngModel)]="matriculation" keyboardType="number" autocorrect="false" autocapitalizationType="none"></TextField>
+                    <StackLayout class="hr-light"></StackLayout>
+                </StackLayout>
+                <StackLayout class="input-field">
                     <TextField secure="true" hint="Senha" class="input" [(ngModel)]="password"></TextField>
                     <StackLayout class="hr-light"></StackLayout>
                 </StackLayout>
-                <Button class="signin bg-primary" text="Entrar"></Button>
+                <Button class="signin bg-primary" text="Criar minha conta"></Button>
                 <Label [nsRouterLink]="['']" text="Já possui uma conta? Acesse sua conta." class="text-center footnote"></Label>
             </StackLayout>
         </StackLayout>
