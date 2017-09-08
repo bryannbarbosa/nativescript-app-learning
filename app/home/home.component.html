@@ -17,8 +17,8 @@
                     <TextField secure="true" hint="Senha" class="input" [(ngModel)]="password"></TextField>
                     <StackLayout class="hr-light"></StackLayout>
                 </StackLayout>
-                <Button class="signin bg-primary" text="Entrar" (tap)="login()"></Button>
-                <Label [nsRouterLink]="['/register']" text="Ainda não possui conta? Crie uma agora!" class="text-center footnote"></Label>
+                <Button class="signin bg-primary" text="Entrar"></Button>
+                <Label [nsRouterLink]="['signup']" text="Ainda não possui conta? Crie uma agora!" class="text-center footnote"></Label>
             </StackLayout>
         </StackLayout>
     </ScrollView>
